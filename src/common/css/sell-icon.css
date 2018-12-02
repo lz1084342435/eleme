@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'sell';
-  src: url('fonts/sell.eot?dr8t5u');
-  src: url('fonts/sell.eot?dr8t5u#iefix') format('embedded-opentype'),
-    url('fonts/sell.ttf?dr8t5u') format('truetype'),
-    url('fonts/sell.woff?dr8t5u') format('woff'),
-    url('fonts/sell.svg?dr8t5u#sell') format('svg');
+  src: url('../fonts/sell.eot?dr8t5u');
+  src: url('../fonts/sell.eot?dr8t5u#iefix') format('embedded-opentype'),
+    url('../fonts/sell.ttf?dr8t5u') format('truetype'),
+    url('../fonts/sell.woff?dr8t5u') format('woff'),
+    url('../fonts/sell.svg?dr8t5u#sell') format('svg');
   font-weight: normal;
   font-style: normal;
 }

@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <v-header></v-header>
+    <v-header :seller="sellerData"></v-header>
 
     <div class="tab">
       <div class="tab-item">
